@@ -1,0 +1,9 @@
+[
+    {
+      "name": "Hourly payout",
+      "cron": "0 * * * *",
+      "toAddress": "RECIPIENT_ADDRESS",
+      "amountSol": 0.01,
+      "enabled": true
+    }
+  ]
